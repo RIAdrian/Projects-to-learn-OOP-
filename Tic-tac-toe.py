@@ -76,6 +76,6 @@ class Board:
     def __init__ (self):
         self.game_board = [[],[],[]]
 
-    
+   # https://www.youtube.com/watch?v=J4H6M0q1Tpk  
 
         
